@@ -1,4 +1,4 @@
-UNIV 3 CPU PROCESSOR BOOTLOADER
+UNIV 3 CPU BOOTLOADER
 ============
 
 UNIV 3 CPU BOOTLOADER - basic program which runs on processor. It allows communicating with processor and functional firmware uploading
